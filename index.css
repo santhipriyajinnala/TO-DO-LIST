@@ -1,3 +1,4 @@
+/* CSS */
 input.strike ~ span {
   text-decoration: line-through;
 }
